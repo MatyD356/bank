@@ -1035,8 +1035,17 @@
           }
         }
       },
+      "Account/1.0.0": {
+        "dependencies": {
+          "Moq": "4.16.1"
+        },
+        "runtime": {
+          "Account.dll": {}
+        }
+      },
       "CurrencyAccount/1.0.0": {
         "dependencies": {
+          "Account": "1.0.0",
           "Moq": "4.16.1"
         },
         "runtime": {
@@ -1568,6 +1577,11 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "CurrencyAccount/1.0.0": {
       "type": "project",

@@ -94,3 +94,5 @@
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/obj/Debug/netcoreapp3.0/CurrencyAccount.Test.pdb
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Castle.Core.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Moq.dll
+/home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Account.dll
+/home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Account.pdb

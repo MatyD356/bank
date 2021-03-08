@@ -4,7 +4,7 @@ namespace CurrencyAccount
 {
     public class CurrencyDataService
     {
-      public decimal GetCurrencyDataService(String currencyName){
+      public virtual decimal GetCurrencyDataService(String currencyName){
         //this should call NBP api to get currency rate'
         switch (currencyName)
         { 
@@ -15,7 +15,7 @@ namespace CurrencyAccount
             case "USD":
             return 3.83m;
             default:
-            return 1;
+            throw new ArgumentException("Currency not supported");
         }
       }
     }

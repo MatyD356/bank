@@ -1,0 +1,8 @@
+/home/matyd/C#/CurrencyBank/Account/bin/Debug/netstandard2.0/Account.deps.json
+/home/matyd/C#/CurrencyBank/Account/bin/Debug/netstandard2.0/Account.dll
+/home/matyd/C#/CurrencyBank/Account/bin/Debug/netstandard2.0/Account.pdb
+/home/matyd/C#/CurrencyBank/Account/obj/Debug/netstandard2.0/Account.csprojAssemblyReference.cache
+/home/matyd/C#/CurrencyBank/Account/obj/Debug/netstandard2.0/Account.AssemblyInfoInputs.cache
+/home/matyd/C#/CurrencyBank/Account/obj/Debug/netstandard2.0/Account.AssemblyInfo.cs
+/home/matyd/C#/CurrencyBank/Account/obj/Debug/netstandard2.0/Account.dll
+/home/matyd/C#/CurrencyBank/Account/obj/Debug/netstandard2.0/Account.pdb

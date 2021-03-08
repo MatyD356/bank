@@ -8,8 +8,4 @@
     <PackageReference Include="Moq" Version="4.16.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Account\Account.csproj" />
-  </ItemGroup>
-
 </Project>
