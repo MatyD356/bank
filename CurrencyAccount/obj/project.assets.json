@@ -663,19 +663,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
-      },
-      "Account/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Moq": "4.16.1"
-        },
-        "compile": {
-          "bin/placeholder/Account.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Account.dll": {}
-        }
       }
     }
   },
@@ -3137,16 +3124,10 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
-    },
-    "Account/1.0.0": {
-      "type": "project",
-      "path": "../Account/Account.csproj",
-      "msbuildProject": "../Account/Account.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Account >= 1.0.0",
       "Moq >= 4.16.1",
       "NETStandard.Library >= 2.0.3"
     ]
@@ -3174,11 +3155,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {
-            "/home/matyd/C#/CurrencyBank/Account/Account.csproj": {
-              "projectPath": "/home/matyd/C#/CurrencyBank/Account/Account.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -9,7 +9,6 @@
     ".NETStandard,Version=v2.0/": {
       "CurrencyAccount/1.0.0": {
         "dependencies": {
-          "Account": "1.0.0",
           "Moq": "4.16.1",
           "NETStandard.Library": "2.0.3"
         },
@@ -531,14 +530,6 @@
             "fileVersion": "4.6.24705.1"
           }
         }
-      },
-      "Account/1.0.0": {
-        "dependencies": {
-          "Moq": "4.16.1"
-        },
-        "runtime": {
-          "Account.dll": {}
-        }
       }
     }
   },
@@ -855,11 +846,6 @@
       "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
-    },
-    "Account/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

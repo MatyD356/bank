@@ -6,6 +6,7 @@
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/CurrencyAccount.Test.runtimeconfig.dev.json
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/CurrencyAccount.Test.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/CurrencyAccount.Test.pdb
+/home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Castle.Core.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Microsoft.DotNet.InternalAbstractions.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Microsoft.TestPlatform.CoreUtilities.dll
@@ -16,6 +17,7 @@
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Microsoft.TestPlatform.Utilities.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.Common.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/testhost.dll
+/home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Moq.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/nunit.framework.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
@@ -92,7 +94,3 @@
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/obj/Debug/netcoreapp3.0/CurrencyAccount.Test.csproj.CopyComplete
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/obj/Debug/netcoreapp3.0/CurrencyAccount.Test.dll
 /home/matyd/C#/CurrencyBank/CurrencyAccount.Test/obj/Debug/netcoreapp3.0/CurrencyAccount.Test.pdb
-/home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Castle.Core.dll
-/home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Moq.dll
-/home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Account.dll
-/home/matyd/C#/CurrencyBank/CurrencyAccount.Test/bin/Debug/netcoreapp3.0/Account.pdb

@@ -4,63 +4,6 @@
     "/home/matyd/C#/CurrencyBank/CurrencyAccount/CurrencyAccount.csproj": {}
   },
   "projects": {
-    "/home/matyd/C#/CurrencyBank/Account/Account.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/matyd/C#/CurrencyBank/Account/Account.csproj",
-        "projectName": "Account",
-        "projectPath": "/home/matyd/C#/CurrencyBank/Account/Account.csproj",
-        "packagesPath": "/home/matyd/.nuget/packages/",
-        "outputPath": "/home/matyd/C#/CurrencyBank/Account/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/matyd/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "netstandard2.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netstandard2.0": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "Moq": {
-              "target": "Package",
-              "version": "[4.16.1, )"
-            },
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.102/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "/home/matyd/C#/CurrencyBank/CurrencyAccount/CurrencyAccount.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -81,11 +24,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {
-              "/home/matyd/C#/CurrencyBank/Account/Account.csproj": {
-                "projectPath": "/home/matyd/C#/CurrencyBank/Account/Account.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

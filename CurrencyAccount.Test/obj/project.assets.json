@@ -1467,24 +1467,10 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Account/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Moq": "4.16.1"
-        },
-        "compile": {
-          "bin/placeholder/Account.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Account.dll": {}
-        }
-      },
       "CurrencyAccount/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Account": "1.0.0",
           "Moq": "4.16.1"
         },
         "compile": {
@@ -5396,11 +5382,6 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
-    },
-    "Account/1.0.0": {
-      "type": "project",
-      "path": "../Account/Account.csproj",
-      "msbuildProject": "../Account/Account.csproj"
     },
     "CurrencyAccount/1.0.0": {
       "type": "project",
