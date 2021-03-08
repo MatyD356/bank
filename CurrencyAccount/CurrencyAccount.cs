@@ -4,5 +4,6 @@ namespace CurrencyAccount
 {
     public class CurrencyAccount
     {
+      
     }
 }

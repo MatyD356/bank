@@ -1,18 +1,22 @@
 using NUnit.Framework;
+using Moq;
 
 namespace CurrencyAccount.Test
 {
-    public class Tests
+  public class Tests
+  {
+    CurrencyDataService currencyDataService;
+    [SetUp]
+    public void Setup()
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
-        [Test]
-        public void Test1()
-        {
-            Assert.Pass();
-        }
+      currencyDataService = new CurrencyDataService();
     }
+
+    [Test]
+    public void GetCurrencyDataServiceUSDShoulDReturn383()
+    {
+      var result = currencyDataService.GetCurrencyDataService("USD");
+      Assert.AreEqual(3.83, result);
+    }
+  }
 }

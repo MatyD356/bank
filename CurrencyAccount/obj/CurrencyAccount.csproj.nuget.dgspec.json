@@ -36,6 +36,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
